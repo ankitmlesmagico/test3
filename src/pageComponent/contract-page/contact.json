@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "sku": "Primary Contact",
+      "full_name": "Kathryn Murphy",
+      "phone_number": "(555) 555-5555",
+      "email": "kathrynmurphy@example.com",
+      "title": "Product Manager"
+    },
+    {
+      "sku": "Technical Lead",
+      "full_name": "Robert Chen",
+      "phone_number": "(555) 123-4567",
+      "email": "robertchen@example.com",
+      "title": "Senior Engineer"
+    },
+    {
+      "sku": "Sales Representative",
+      "full_name": "Sarah Johnson",
+      "phone_number": "(555) 987-6543",
+      "email": "sarahjohnson@example.com",
+      "title": "Account Executive"
+    },
+    {
+      "sku": "Support Contact",
+      "full_name": "Michael Torres",
+      "phone_number": "(555) 246-8135",
+      "email": "michaeltorres@example.com",
+      "title": "Customer Success Manager"
+    }
+  ]
+}
